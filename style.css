@@ -1,0 +1,25 @@
+.square2{
+height: 300px;
+width: 300px;
+background-color: lightgrey;
+border: 5px solid grey;
+margin: 0 auto;
+}
+
+.square1 {
+    height: 50%;
+    width: 50%;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.red {
+    background-color: red;
+}
+
+.square1.blue{
+     float: right;
+}
+
